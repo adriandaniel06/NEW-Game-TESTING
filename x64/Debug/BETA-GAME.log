@@ -1,0 +1,12 @@
+﻿  BETA-GAME.cpp
+E:\Projects\BETA-GAME\BETA-GAME\BETA-GAME.cpp(82,41): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+E:\Projects\BETA-GAME\BETA-GAME\BETA-GAME.cpp(83,42): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  BETA-GAME.vcxproj -> E:\Projects\BETA-GAME\x64\Debug\BETA-GAME.exe
